@@ -22,3 +22,6 @@ shopt -s cmdhist
 # Ignore duplicates, ls without options and builtin commands
 HISTCONTROL=ignoredups
 export HISTIGNORE="&:ls:[bf]g:exit"
+export PATH="$PATH:/Applications/google-cloud-sdk/bin"
+export PATH="$PATH:/Users/Tony/Library/Android/sdk/tools"
+export JAVA_HOME="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home"
