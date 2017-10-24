@@ -24,4 +24,6 @@ HISTCONTROL=ignoredups
 export HISTIGNORE="&:ls:[bf]g:exit"
 export PATH="$PATH:/Applications/google-cloud-sdk/bin"
 export PATH="$PATH:/Users/Tony/Library/Android/sdk/tools"
-export JAVA_HOME="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home"
+export PATH="$PATH:/Users/Tony/Library/Android/sdk/platform-tools"
+export ANDROID_HOME="/Users/Tony/Library/Android/sdk"
+export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home"
